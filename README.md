@@ -89,7 +89,7 @@ $ python scripts/demo_inference.py --cfg configs/coco/resnet/256x192_res50_lr1e-
 ```
 
 
-### :book: Please Go through [Pose_With_Action_HLD2.docx](https://github.com/iNeuron-ai/Pose-with-Action/blob/main/doc/Pose_With_Action_HLD2.docx) for more info.
+### :book: Please Go through [Pose_With_Action_HLD2.docx](https://github.com/harikoneru1/AutoPose_Detection/blob/main/doc/Pose_With_Action_HLD2.docx) for more info.
 
 
 ## Contributors <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> 
